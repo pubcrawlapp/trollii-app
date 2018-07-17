@@ -1,3 +1,4 @@
 # Trollii
 
-- [Trollii](#trollii)
+- Trollii App
+- Trollii Service
