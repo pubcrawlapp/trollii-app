@@ -1,1 +1,4 @@
-# trollii-app
+# Trollii
+
+- Trollii App
+- Trollii Service
